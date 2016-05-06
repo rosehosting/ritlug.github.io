@@ -22,7 +22,7 @@ Looking for more information? Email us at rit.edu, our name is ritlug.
 * [Telegram](https://telegram.me/joinchat/BVxlKADKpMbhHtgxKkdjSQ)
 
 ##### Open Source Code and Governance
-* [Github Organization](https://github.com/RITlug) (club governing documents, website, and projects)
+* [GitHub Organization](https://github.com/RITlug) (club governing documents, website, and projects)
 
 ##### Events
 * Weekly Meetings on {{ site.ritlug-day }}s, {{ site.ritlug-time }}
